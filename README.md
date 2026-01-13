@@ -1,4 +1,4 @@
-# Python Programming Language Studies 🐍
+# Programming Language Studies through Python Practices 🐍
 
 This repository is my personal learning log for studying the Python programming language through hands on practice in Jupyter notebooks. The notebooks here were developed as assignments for the university course **Information Processing**, under the guidance of **Prof. João Marcelo Borovina Josko**. My goal is to build a strong foundation in core programming concepts and gradually connect that knowledge to real world workflows!
 
