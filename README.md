@@ -24,13 +24,10 @@ You can open the notebooks directly on GitHub, or run them locally with Jupyter.
 
 This is a study focused repository. The emphasis is on clarity, incremental learning, and keeping each notebook understandable as a standalone reference.
 
-## Credits
+## 🧑‍💻 Author
+**Bruno Zomignani Perciani**  
+Undergraduate Student at the Federal University of ABC (UFABC)  
+📧 bruno.perciani@aluno.ufabc.edu.br  
 
-Course: Information Processing  
-Instructor: Prof. João Marcelo Borovina Josko
-
-## Author
-
-Bruno Zomignani Perciani  
-Undergraduate Student at the Federal University of ABC, UFABC  
-Email: bruno.perciani@aluno.ufabc.edu.br
+**Supervised by:**  
+Prof. Dr. João Marcelo Borovina Josko 
